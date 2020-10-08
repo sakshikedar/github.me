@@ -12,6 +12,6 @@ Here's what I am upto:
 
 ◾ 👩‍🎨 Passion work: Maintaining an art journal and content writing.
 
-◾ 🏴‍☠️ Click [here](https://github.com/sakshikedar/Dummy-website) to view my dummy portfolio for a start-up project.
+◾ 🏴‍☠️ Click [here](https://github.com/sakshikedar/Dummy-website) to view my dummy portfolio repository for a start-up project.
 
 ◾ 📬 Contact me on [LinkedIn](https://www.linkedin.com/in/sakshi-kedar-b2849a17a)🌍  [E-mail](https://mail.google.com/mail/u/0/?tab=rm#inbox)📧  [Twitter](https://twitter.com/home)🐤
