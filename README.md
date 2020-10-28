@@ -14,7 +14,7 @@ Here's what I am upto:
 
 ◾ 👩‍🎨 Passion work: Maintaining an art journal and content writing.
 
-◾ 🏴‍☠️ Click [here] (https://sakshikedar.github.io/WorkDude/) to view my start-up project website.
+◾ 🏴‍☠️ Click [here](https://sakshikedar.github.io/WorkDude/) to view my start-up project website.
 
 ## Connect with me  
 <div align="center">
