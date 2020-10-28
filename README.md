@@ -1,7 +1,8 @@
 <div align="center">
-<h2> Hey there, I'm Sakshi Kedar, A junior year CSE undergrad student</h2>
+<h2> Hey there, I'm Sakshi Kedar, a junior year CSE undergrad student!</h2>
 </div>
 Hope you're doing fine!
+
 
 Here's what I am upto:
 
@@ -29,6 +30,7 @@ Here's what I am upto:
 </div>  
   
 <br/>
+
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sakshikedar&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
 
