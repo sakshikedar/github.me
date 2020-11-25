@@ -16,6 +16,10 @@ Here's what I am upto:
 
 ◾ 🏴‍☠️ Click [here](https://sakshikedar.github.io/WorkDude/) to view my start-up project website.
 
+<img src="https://komarev.com/ghpvc/?username=sakshikedar" alt="sakshikedar" /> </p>
+
+
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/sakshikedarl" target="_blank">
