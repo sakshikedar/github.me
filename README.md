@@ -1,5 +1,5 @@
 <div align="center">
-<h2> Hey there, I'm [Sakshi](https://sakshikedar.github.io/Portfolio/), a junior year CSE undergrad student!</h2>
+<h2> Hey there, I'm <a href="https://sakshikedar.github.io/Portfolio/">Sakshi</a>, a junior year CSE undergrad student!</h2>
 </div>
 Hope you're doing fine!💫
 
