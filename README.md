@@ -1,11 +1,30 @@
-<div align="center">
-<h2> Hey there, I'm <a href="https://sakshikedar.github.io/Portfolio/">Sakshi</a>, a junior year CSE undergrad student!</h2>
-</div>
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Sakshi!](https://sakshikedar.github.io/Portfolio/)
+
+
+<a href="https://www.linkedin.com/in/sakshi-kedar-b2849a17a/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="https://twitter.com/sakshistwt">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="mailto:spkedar02@gmail.com@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<!--<a href="https://www.youtube.com/channel/UCfv8cds8AfIM3UZtAWOz6Gg">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>-->
+<a href="https://sakshikedar.medium.com/"> 
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
+
+<br />
+
+
+
 Hope you're doing fine!💫
 
 
-Here's what I am upto:
-
+### About Me 🚀
 ◾ 👭 Currently working on my start up project with fellow mates.( Details will be posted soon!)
 
 ◾ 👩‍💻 Learning JAVA for Android Development.
@@ -20,7 +39,7 @@ Here's what I am upto:
 
 
 
-## Connect with me  
+<!--## Connect with me  
 <div align="center">
 <a href="https://github.com/sakshikedarl" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -31,7 +50,7 @@ Here's what I am upto:
 <a href="https://www.linkedin.com/in/sakshi-kedar-b2849a17a" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-</div>  
+</div>-->  
   
 <br/>
 
