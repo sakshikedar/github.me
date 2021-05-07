@@ -21,19 +21,21 @@
 
 
 
-Hope you're doing fine!💫
+####Hope you're doing fine!💫
 
 
 ### About Me 🚀
+
+◾ 👩‍💻 I am a junior year, computer science and engineering student.
+
 ◾ 👭 Currently working on my start up project with fellow mates.( Details will be posted soon!)
 
-◾ 👩‍💻 Learning JAVA for Android Development.
+◾ 📲 Frontend enthusiast
 
-◾ 📲 Frontend Developer with sound knowledge of HTML and CSS.
-
-◾ 👩‍🎨 Passion work: Maintaining an art journal and content writing.
+ 👩‍🎨 Passion work: Maintaining an art journal and content writing.
 
 ◾ 🏴‍☠️ Click [here](https://sakshikedar.github.io/WorkDude/) to view my start-up project website.
+
 
 <img src="https://komarev.com/ghpvc/?username=sakshikedar" alt="sakshikedar" /> </p>
 
