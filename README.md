@@ -39,8 +39,6 @@
  
 
 
-<img src="https://komarev.com/ghpvc/?username=sakshikedar" alt="sakshikedar" /> </p>
-
 
 
 <!--## Connect with me  
@@ -62,3 +60,6 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sakshikedar&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
 
 <br/>  
+<img src="https://komarev.com/ghpvc/?username=sakshikedar" alt="sakshikedar" /> </p>
+
+
