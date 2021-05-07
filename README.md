@@ -26,22 +26,17 @@
 
 ### About Me 🚀
 
-◾ 👩‍💻 I am a junior year, computer science and engineering student.
+◾ 👩‍💻 I am a junior year, Computer Science and Engineering student.</br>
 
-◾ 👭 Currently working on my start up project with fellow mates.( Details will be posted soon!)
+◾ 👭 Currently working on my start up project with fellow mates.( Details will be posted soon!)</br>
 
-◾ 📲 Frontend enthusiast
+◾ 📲 Frontend enthusiast</br>
 
- 👩‍🎨 Passion work: Maintaining an art journal and content writing.
+ 👩‍🎨 Passion work: Maintaining an art journal and content writing.</br>
 
- 🏴‍☠️ Click [here](https://sakshikedar.github.io/WorkDude/) to view my start-up project website.
+ 🏴‍☠️ Click [here](https://sakshikedar.github.io/WorkDude/) to view my start-up project website.</br>
  
- 
-
-
-
-
-<!--## Connect with me  
+ <!--## Connect with me  
 <div align="center">
 <a href="https://github.com/sakshikedarl" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
