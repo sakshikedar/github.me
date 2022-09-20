@@ -27,7 +27,6 @@
 ### About Me 🚀
 
 ◾ 👩‍💻 I am a graduate student pursuing a master's degree in information technology at Arizona State University.</br>
-
 ◾ 👭 Actively looking for a Summer'23 internship </br>
 ◾ Tech Skills: Python, SQL, R, Tableau, Power Bi, SPSS, Jira, Agile </br>
 ◾ Certification: Microsoft Azure Fundamentals AZ- 900 </br>
