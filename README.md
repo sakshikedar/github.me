@@ -26,11 +26,11 @@
 
 ### About Me 🚀
 
-◾ 👩‍💻 I am a junior year, Computer Science and Engineering student.</br>
+◾ 👩‍💻 I am a graduate student pursuing a master's degree in information technology at Arizona State University.</br>
 
-◾ 👭 Currently working on my start up project with fellow mates.( Details will be posted soon!)</br>
-
-◾ 📲 Frontend enthusiast</br>
+◾ 👭 Actively looking for a Summer'23 internship </br>
+◾ Tech Skills: Python, SQL, R, Tableau, Power Bi, SPSS, Jira, Agile </br>
+◾ Certification: Microsoft Azure Fundamentals AZ- 900 </br>
 
  👩‍🎨 Passion work: Maintaining an art journal and content writing.</br>
 
