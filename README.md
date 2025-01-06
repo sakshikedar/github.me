@@ -19,11 +19,6 @@
 
 <br />
 
-
-
-#### Hope you're doing fine!💫
-
-
 ### 💻 About Me 🚀
 Hey there, tech enthusiast! 👋
 
