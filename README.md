@@ -19,7 +19,6 @@
 
 <br />
 
-
 🎓 Graduate Alert: Master’s in Information Technology @ ASU 🦅.
 🧠 Tech Stack: Python 🐍, SQL 🛠️, R 🎯, Tableau 📊, Power BI 📈, SPSS 📚, Jira 🤝, Agile 🏎️.
 
