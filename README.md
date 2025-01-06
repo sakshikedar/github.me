@@ -24,12 +24,12 @@
 #### Hope you're doing fine!💫
 
 
-### About Me 🚀
+### 💻 About Me 🚀
+Hey there, tech enthusiast! 👋
 
-◾ 👩‍💻 I am a graduate student pursuing a master's degree in information technology at Arizona State University.</br>
-◾ 👭 Actively looking for a Summer'23 internship </br>
-◾ Tech Skills: Python, SQL, R, Tableau, Power Bi, SPSS, Jira, Agile </br>
-◾ Certification: Microsoft Azure Fundamentals AZ- 900 </br>
+🎓 Graduate Alert: Master’s in Information Technology @ ASU 🦅.
+🧠 Tech Stack: Python 🐍, SQL 🛠️, R 🎯, Tableau 📊, Power BI 📈, SPSS 📚, Jira 🤝, Agile 🏎️.
+
 
  👩‍🎨 Passion work: Maintaining an art journal and content writing.</br>
 
