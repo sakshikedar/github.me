@@ -17,10 +17,11 @@
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 
-<br />
-### About Me :)
+<br/>
+<br>
 
-🎓 Graduate Alert: Master’s in Information Technology @ ASU 🦅.
+
+🎓 Graduate Alert: Master’s in Information Technology @ ASU 🦅.<br/>
 🧠 Tech Stack: Python 🐍, SQL 🛠️, R 🎯, Tableau 📊, Power BI 📈, SPSS 📚, Jira 🤝, Agile 🏎️.
 
 
